@@ -44,6 +44,9 @@ Enable your Docker containers to be deployed on a Kubernetes cluster.
 - Don't have a Kubernetes cluster to test against?
   - [MiniKube](https://kubernetes.io/docs/setup/minikube/) (free, local)
   - [GKE](https://cloud.google.com/kubernetes-engine/) (more realistic deployment, may cost something)
+- Remember that all scripts and code should be runnable either on Linux or MacOS
 
 ### 5. Whatever you can think of
 Do you have more ideas to optimize your workflow or automate deployment? Feel free to go wild and dazzle us with your solutions.
+
+
