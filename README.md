@@ -20,7 +20,9 @@ In the root of this project you'll find a csv-file with passenger data from the 
 
 ### 2. Create an API
 Create an HTTP-API (e.g. REST) that allows reading & writing (maybe even updating & deleting) data from your database.
-Tech stack and language are your choice. The API we would like you to implement is described in [API.md](./API.md)
+Tech stack and language are your choice. The API we would like you to implement is described in [API.md](./API.md).
+An OpenAPI specification is also provided (see [swagger.yml](./swagger.yml)). If you do not want to implement an API server from scratch, 
+you can use something like [swagger-codegen](https://swagger.io/tools/swagger-codegen/) to generate server stubs for your solution.
 
 ### 3. Dockerize
 Automate setup of your database & API with Docker, so it can be run everywhere comfortably with one or two commands.
