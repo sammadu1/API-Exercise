@@ -49,6 +49,8 @@ Enable your Docker containers to be deployed on a Kubernetes cluster.
 - Remember that all scripts and code should be runnable either on Linux or MacOS
 
 ### 5. Whatever you can think of
-Do you have more ideas to optimize your workflow or automate deployment? Feel free to go wild and dazzle us with your solutions.
+Do you have more ideas to optimize your workflow or automate deployment? Feel free to go wild and dazzle us with your solutions. Here's a couple of ideas:
 
-
+- Implement a CI/CD pipeline
+- Configure a logging or monitoring system
+- Scan the Docker image for security vulnerabilities
